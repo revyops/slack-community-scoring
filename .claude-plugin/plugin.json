@@ -1,0 +1,8 @@
+{
+  "name": "slack-community-scoring",
+  "version": "1.0.0",
+  "description": "Score and rank the people in your Slack community so you know who to talk to first: joins, posts, replies, reactions and DMs, matched by email, ranked each week.",
+  "author": { "name": "Ben Reed" },
+  "homepage": "https://revyops.com",
+  "license": "MIT"
+}

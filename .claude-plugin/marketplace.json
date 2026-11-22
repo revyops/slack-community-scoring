@@ -1,0 +1,13 @@
+{
+  "name": "slack-community-scoring",
+  "owner": { "name": "Ben Reed" },
+  "metadata": { "description": "A Claude Code skill from the RevyOps launch: score and rank your Slack community." },
+  "plugins": [
+    {
+      "name": "slack-community-scoring",
+      "source": "./",
+      "description": "Score and rank the people in your Slack community so you know who to talk to first.",
+      "version": "1.0.0"
+    }
+  ]
+}
